@@ -1,0 +1,4 @@
+/cache
+settings.py
+*.pyc
+*.save
