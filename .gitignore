@@ -1,4 +1,4 @@
 /cache
-settings.py
+/django_test/settings.py
 *.pyc
 *.save
