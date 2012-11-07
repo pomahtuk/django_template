@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+import os
+os.environ.setdefault('LANG','ru_RU')
+
 from django.core.management import execute_manager
 import imp
 try:
