@@ -11,6 +11,7 @@ urlpatterns = patterns('',
     # url(r'^$', 'django_test.views.home', name='home'),
     # url(r'^django_test/', include('django_test.foo.urls')),
     url(r'^tinymce/', include('tinymce.urls')),
+    url(r'', include('social_auth.urls')),
 
     url(r'^grappelli/', include('grappelli.urls')),
     url(r'^admin/filebrowser/', include(site.urls)),

@@ -13,4 +13,4 @@ from django.contrib.auth.decorators import *
 
 # Create your views here.
 def index(request):
-  return render_to_response('app/layout.haml', context_instance = RequestContext(request))
+  return render_to_response('app/layout.html', context_instance = RequestContext(request))

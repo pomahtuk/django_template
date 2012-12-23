@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+      <meta charset="utf-8">
+      <title>HTML5 Boilerplate: The web's most popular front-end template</title>
+      <meta name="description" content="HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites. Spend more time developing and less time reinventing the wheel.">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <!--<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700">-->
+      <link rel="stylesheet" href="/static/demo/css/bootstrap.css">
+
+      <style type="text/css">
+        body {
+          padding-top: 20px;
+          padding-bottom: 40px;
+        }
+
+        /* CUSTOMIZE THE NAVBAR
+        -------------------------------------------------- */
+
+        /* Carousel base class */
+        .carousel {
+          margin-bottom: 60px;
+        }
+
+        .carousel .container {
+          position: relative;
+          z-index: 9;
+        }
+
+        .carousel-control {
+          height: 80px;
+          margin-top: 0;
+          font-size: 120px;
+          text-shadow: 0 1px 1px rgba(0,0,0,.4);
+          background-color: transparent;
+          border: 0;
+        }
+
+        .carousel .item {
+          height: 500px;
+        }
+        .carousel img {
+          position: absolute;
+          top: 0;
+          left: 0;
+          min-width: 100%;
+          height: 500px;
+        }
+
+        .carousel-caption {
+          background-color: transparent;
+          position: static;
+          max-width: 550px;
+          padding: 0 20px;
+          margin-top: 200px;
+        }
+        .carousel-caption h1,
+        .carousel-caption .lead {
+          margin: 0;
+          line-height: 1.25;
+          color: #fff;
+          text-shadow: 0 1px 1px rgba(0,0,0,.4);
+        }
+        .carousel-caption .btn {
+          margin-top: 10px;
+        }
+
+        /* Custom container */
+        .container-narrow {
+          margin: 0 auto;
+          max-width: 700px;
+        }
+        .container-narrow > hr {
+          margin: 30px 0;
+        }
+        /* Main marketing message and sign up button */
+        .jumbotron {
+          margin: 60px 0;
+          text-align: center;
+        }
+        .jumbotron h1 {
+          font-size: 72px;
+          line-height: 1;
+        }
+        .jumbotron .btn {
+          font-size: 21px;
+          padding: 14px 24px;
+        }
+        /* Supporting marketing content */
+        .marketing {
+          margin: 60px 0;
+        }
+        .marketing p + h4 {
+          margin-top: 28px;
+        }
+      </style>
+    
+      <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+      <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+      <![endif]-->
+
+      <link href="/static/demo/css/bootstrap-responsive.css" rel="stylesheet">
+  </head>
+  <body>
+
+    <!-- NAVBAR
+    ================================================== -->
+    <div class="navbar-wrapper">
+      <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
+      <div class="container">
+
+        <div class="navbar navbar-inverse">
+          <div class="navbar-inner">
+            <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+            <a class="brand" href="#">Project name</a>
+            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+            <div class="nav-collapse collapse">
+              <ul class="nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <!-- Read about Bootstrap dropdowns at http://twitter.github.com/bootstrap/javascript.html#dropdowns -->
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Action</a></li>
+                    <li><a href="#">Another action</a></li>
+                    <li><a href="#">Something else here</a></li>
+                    <li class="divider"></li>
+                    <li class="nav-header">Nav header</li>
+                    <li><a href="#">Separated link</a></li>
+                    <li><a href="#">One more separated link</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div><!--/.nav-collapse -->
+          </div><!-- /.navbar-inner -->
+        </div><!-- /.navbar -->
+
+      </div> <!-- /.container -->
+    </div><!-- /.navbar-wrapper -->
+
+    <div class="container-narrow">
+
+      <div class="jumbotron">
+        <h1>Super awesome marketing speak!</h1>
+        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <a class="btn btn-large btn-success" href="{% url socialauth_begin 'twitter' %}"> Login with Twitter </a>
+      </div>
+
+      <hr>
+
+      <div class="row-fluid marketing">
+        <div class="span6">
+          <h4>Subheading</h4>
+          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+
+          <h4>Subheading</h4>
+          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+
+          <h4>Subheading</h4>
+          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+        </div>
+
+        <div class="span6">
+          <h4>Subheading</h4>
+          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+
+          <h4>Subheading</h4>
+          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+
+          <h4>Subheading</h4>
+          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="footer">
+        <p>&copy; Company 2012</p>
+      </div>
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="/static/demo/js/bootstrap.js"></script>
+  </body>
+
+</html>
