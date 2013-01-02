@@ -1,0 +1,1135 @@
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 10:38:46] "GET / HTTP/1.1" 200 7054
+[24/Dec/2012 10:38:46] "GET /static/demo/css/bootstrap-responsive.css HTTP/1.1" 200 21751
+[24/Dec/2012 10:38:46] "GET /static/demo/js/bootstrap.js HTTP/1.1" 200 58516
+[24/Dec/2012 10:38:46] "GET /static/demo/css/bootstrap.css HTTP/1.1" 200 124223
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:38:53] "GET /admin HTTP/1.1" 301 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:38:53] "GET /admin/ HTTP/1.1" 200 5627
+[24/Dec/2012 10:38:53] "GET /static/grappelli/jquery/ui/css/custom-theme/jquery-ui-1.8.18.custom.css HTTP/1.1" 200 33252
+[24/Dec/2012 10:38:53] "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 200 25998
+[24/Dec/2012 10:38:53] "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 200 34304
+[24/Dec/2012 10:38:53] "GET /static/grappelli/jquery/jquery-1.7.2.min.js HTTP/1.1" 200 94840
+[24/Dec/2012 10:38:53] "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 200 159979
+[24/Dec/2012 10:38:53] "GET /static/grappelli/jquery/ui/js/jquery-ui-1.8.18.custom.min.js HTTP/1.1" 200 210423
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:38:55] "POST /admin/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:38:56] "GET /admin/ HTTP/1.1" 200 14412
+[24/Dec/2012 10:38:56] "GET /static/grappelli/images/icons-small-s7d28d7943b.png HTTP/1.1" 200 891
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:40:21] "GET /admin/ HTTP/1.1" 200 14619
+[24/Dec/2012 10:40:21] "GET /static/grappelli/jquery/ui/css/custom-theme/jquery-ui-1.8.18.custom.css HTTP/1.1" 304 0
+[24/Dec/2012 10:40:21] "GET /static/grappelli/stylesheets/screen.css HTTP/1.1" 304 0
+[24/Dec/2012 10:40:21] "GET /static/grappelli/stylesheets/mueller/grid/output.css HTTP/1.1" 304 0
+[24/Dec/2012 10:40:21] "GET /static/grappelli/jquery/jquery-1.7.2.min.js HTTP/1.1" 304 0
+[24/Dec/2012 10:40:22] "GET /static/grappelli/jquery/ui/js/jquery-ui-1.8.18.custom.min.js HTTP/1.1" 304 0
+[24/Dec/2012 10:40:22] "GET /static/grappelli/js/grappelli.min.js HTTP/1.1" 304 0
+[24/Dec/2012 10:40:22] "GET /static/grappelli/images/icons-small-s7d28d7943b.png HTTP/1.1" 304 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:40:30] "GET / HTTP/1.1" 200 7054
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:40:32] "GET /login/twitter/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:40:35] "GET /complete/twitter/?oauth_token=0Yynk56pdG9vPGxP2Nw05YF3aknbkkp3fL3JiDw1cE&oauth_verifier=gZswN3C9zdlW49Scgxl5U22Xs6IuDAkgOxdX9luLqoE HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:40:36] "GET /login/ HTTP/1.1" 404 3921
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:41:25] "GET /admin/dj_app/page/ HTTP/1.1" 200 10777
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:41:25] "GET /admin/jsi18n/ HTTP/1.1" 200 10492
+[24/Dec/2012 10:41:26] "GET /static/grappelli/images/icons-s96d5c23000.png HTTP/1.1" 200 9159
+[24/Dec/2012 10:41:26] "GET /static/grappelli/images/icons/form-select.png HTTP/1.1" 200 289
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:41:28] "GET /admin/dj_app/page/add/ HTTP/1.1" 200 31827
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:41:28] "GET /tinymce/filebrowser/ HTTP/1.1" 200 585
+[24/Dec/2012 10:41:28] "GET /static/filebrowser/js/AddFileBrowser.js HTTP/1.1" 200 1474
+[24/Dec/2012 10:41:28] "GET /static/tiny_mce/tiny_mce_src.js HTTP/1.1" 200 446912
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/save/editor_plugin_src.js HTTP/1.1" 200 2529
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/advhr/editor_plugin_src.js HTTP/1.1" 200 1442
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/advimage/editor_plugin_src.js HTTP/1.1" 200 1391
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/advlink/editor_plugin_src.js HTTP/1.1" 200 1633
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/iespell/editor_plugin_src.js HTTP/1.1" 200 1484
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/emotions/editor_plugin_src.js HTTP/1.1" 200 1220
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/langs/ru.js HTTP/1.1" 200 19488
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/table/editor_plugin_src.js HTTP/1.1" 200 37802
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/insertdatetime/editor_plugin_src.js HTTP/1.1" 200 2860
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/preview/editor_plugin_src.js HTTP/1.1" 200 1589
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/searchreplace/editor_plugin_src.js HTTP/1.1" 200 1795
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/themes/advanced/editor_template_src.js HTTP/1.1" 200 39555
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/print/editor_plugin_src.js HTTP/1.1" 200 881
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/contextmenu/editor_plugin_src.js HTTP/1.1" 200 5162
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/plugins/fullscreen/editor_plugin_src.js HTTP/1.1" 200 5582
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/themes/advanced/langs/ru.js HTTP/1.1" 200 6867
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/themes/advanced/skins/default/content.css HTTP/1.1" 200 2607
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:41:29] "GET /static/tiny_mce/themes/advanced/skins/default/ui.css HTTP/1.1" 200 15739
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:41:30] "GET /static/tiny_mce/themes/advanced/img/icons.gif HTTP/1.1" 200 11790
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:41:43] "GET /admin/filebrowser/browse/?pop=1&dir=images/ HTTP/1.1" 200 11595
+[24/Dec/2012 10:41:43] "GET /static/filebrowser/css/filebrowser.css HTTP/1.1" 200 9981
+[24/Dec/2012 10:41:43] "GET /static/filebrowser/js/FB_FileBrowseField.js HTTP/1.1" 200 1351
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:41:46] "GET /admin/filebrowser/upload/?dir=images/&pop=1 HTTP/1.1" 200 12053
+[24/Dec/2012 10:41:46] "GET /static/filebrowser/js/fileuploader.js HTTP/1.1" 200 39985
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:41:53] "GET /static/filebrowser/img/cancel.png HTTP/1.1" 200 236
+[24/Dec/2012 10:41:54] "POST /admin/filebrowser/upload_file/?csrf_token=2Iojf6deNGKjoGhBudYtKaRjUcCmiwl4&csrf_name=csrfmiddlewaretoken&csrf_xname=X-CSRFToken&folder=images%2F&qqfile=red-fox-2560x1440.jpg HTTP/1.1" 200 54
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:42:02] "GET /admin/filebrowser/browse/?pop=1&dir=images HTTP/1.1" 200 16702
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:42:02] "GET /media/uploads/images/red-fox-2560x1440_admin_thumbnail.jpg HTTP/1.1" 404 4077
+[24/Dec/2012 10:42:02] "GET /static/grappelli/images/backgrounds/changelist-results.png HTTP/1.1" 200 244
+[24/Dec/2012 10:42:02] "GET /static/filebrowser/img/icon-pulldown-versions.png HTTP/1.1" 200 165
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:42:03] "GET /static/filebrowser/img/icon-pulldown-versions-hover.png HTTP/1.1" 200 165
+[24/Dec/2012 10:42:03] "GET /static/filebrowser/img/icon-pulldown-versions-active.png HTTP/1.1" 200 165
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:42:22] "GET /admin/filebrowser/version/?dir=images&pop=1&filename=red-fox-2560x1440.jpg&version=big HTTP/1.1" 200 5711
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:42:23] "GET /media/uploads/images/red-fox-2560x1440_admin_thumbnail.jpg HTTP/1.1" 404 4077
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:43:23] "GET /admin/filebrowser/browse/?pop=1&dir=images/ HTTP/1.1" 200 16833
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:43:23] "GET /media/uploads/images/red-fox-2560x1440_admin_thumbnail.jpg HTTP/1.1" 404 4077
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:43:28] "GET /admin/filebrowser/version/?dir=images/&pop=1&filename=red-fox-2560x1440.jpg&version=medium HTTP/1.1" 200 5717
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:43:28] "GET /media/uploads/images/red-fox-2560x1440_admin_thumbnail.jpg HTTP/1.1" 404 4077
+modeltranslation: Registered 0 models for translation () [pid:7459].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/conf/__init__.py:110: DeprecationWarning: The SECRET_KEY setting must not be empty.
+  warnings.warn("The SECRET_KEY setting must not be empty.", DeprecationWarning)
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:7733].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:47:02] "GET /media/ HTTP/1.1" 404 3921
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:7739].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 10:50:00] "GET /admin/filebrowser/browse/?pop=1&dir=images/ HTTP/1.1" 200 16937
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:50:00] "GET /media/uploads/images/red-fox-2560x1440_admin_thumbnail.jpg HTTP/1.1" 404 4077
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:50:02] "GET /media/uploads/images/red-fox-2560x1440.jpg HTTP/1.1" 404 4029
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:7786].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:51:55] "GET /media/uploads/images/red-fox-2560x1440.jpg HTTP/1.1" 200 917848
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 10:52:02] "GET /admin/filebrowser/browse/?pop=1&dir=images/ HTTP/1.1" 200 16937
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:52:02] "GET /media/uploads/images/red-fox-2560x1440_admin_thumbnail.jpg HTTP/1.1" 200 1961
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:55:01] "GET / HTTP/1.1" 200 7054
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:55:04] "GET /login/twitter/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:55:07] "GET /complete/twitter/?oauth_token=PFcVYehomxqfh9OpjjQkf14Qyi0MuGPXK1kWm44fY&oauth_verifier=QIrU6ttBPqzYLC0jbMHXSwfFwYv4nebzXNfZHIq4 HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 10:55:07] "GET /accounts/profile/ HTTP/1.1" 404 4080
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:7829].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:7954].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/conf/__init__.py:110: DeprecationWarning: The SECRET_KEY setting must not be empty.
+  warnings.warn("The SECRET_KEY setting must not be empty.", DeprecationWarning)
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:7962].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:7982].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:8025].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <bound method Command.inner_run of <django.contrib.staticfiles.management.commands.runserver.Command object at 0x2b5e04f83e50>>
+modeltranslation: Registered 0 models for translation () [pid:8034].
+Validating models...
+
+Traceback (most recent call last):
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/management/commands/runserver.py", line 91, in inner_run
+    self.validate(display_num_errors=True)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/management/base.py", line 266, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/management/validation.py", line 30, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/db/models/loading.py", line 158, in get_app_errors
+    self._populate()
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/db/models/loading.py", line 64, in _populate
+    self.load_app(app_name, True)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/db/models/loading.py", line 88, in load_app
+    models = import_module('.models', app_name)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/var/www/pman/data/www/django_test/dj_app/models.py", line 12, in <module>
+    class MyProfile(UserenaBaseProfile):
+  File "/var/www/pman/data/www/django_test/dj_app/models.py", line 13, in MyProfile
+    user = models.OneToOneField(User, unique=True, verbose_name=_('user'), related_name='my_profile')
+NameError: name 'User' is not defined
+Unhandled exception in thread started by <bound method Command.inner_run of <django.contrib.staticfiles.management.commands.runserver.Command object at 0x2b59ebd32f50>>
+modeltranslation: Registered 0 models for translation () [pid:8052].
+Validating models...
+
+Traceback (most recent call last):
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/management/commands/runserver.py", line 91, in inner_run
+    self.validate(display_num_errors=True)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/management/base.py", line 266, in validate
+    num_errors = get_validation_errors(s, app)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/management/validation.py", line 30, in get_validation_errors
+    for (app_name, error) in get_app_errors().items():
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/db/models/loading.py", line 158, in get_app_errors
+    self._populate()
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/db/models/loading.py", line 64, in _populate
+    self.load_app(app_name, True)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/db/models/loading.py", line 88, in load_app
+    models = import_module('.models', app_name)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/var/www/pman/data/www/django_test/dj_app/models.py", line 12, in <module>
+    class MyProfile(UserenaBaseProfile):
+  File "/var/www/pman/data/www/django_test/dj_app/models.py", line 13, in MyProfile
+    user = models.OneToOneField(User, unique=True, verbose_name=_('user'), related_name='my_profile')
+NameError: name 'User' is not defined
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/conf/__init__.py:110: DeprecationWarning: The SECRET_KEY setting must not be empty.
+  warnings.warn("The SECRET_KEY setting must not be empty.", DeprecationWarning)
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+Traceback (most recent call last):
+  File "./manage.py", line 17, in <module>
+    execute_manager(settings)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/management/__init__.py", line 459, in execute_manager
+    utility.execute()
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/management/__init__.py", line 382, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/management/__init__.py", line 252, in fetch_command
+    app_name = get_commands()[subcommand]
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/management/__init__.py", line 101, in get_commands
+    apps = settings.INSTALLED_APPS
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 184, in inner
+    self._setup()
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/conf/__init__.py", line 42, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/conf/__init__.py", line 93, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/importlib.py", line 35, in import_module
+    __import__(name)
+  File "/var/www/pman/data/www/django_test/django_test/settings.py", line 227
+SyntaxError: Non-ASCII character '\xe2' in file /var/www/pman/data/www/django_test/django_test/settings.py on line 227, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+modeltranslation: Registered 0 models for translation () [pid:7458].
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:03:48] "GET /accounts/profile/ HTTP/1.1" 404 1632
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:03:52] "GET /accounts/ HTTP/1.1" 500 83176
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 11:03:58] "GET / HTTP/1.1" 200 7054
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:04:01] "GET /login/twitter/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:04:04] "GET /complete/twitter/?oauth_token=2bUMuWn8RkUn3yh8HM0FyNMuE4jIRbeAVTCaVlpQ&oauth_verifier=ucpzl97Q8U9zYRVzbsYqrskkJQWkHdVTkqoEWKQuuag HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:04:05] "GET /accounts/%(username)s/ HTTP/1.1" 404 8524
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:8109].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 11:06:06] "GET / HTTP/1.1" 200 7054
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:06:08] "GET /login/twitter/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:06:12] "GET /complete/twitter/?oauth_token=9YVcRVKsESQQWVusmkPhJQuOHvXanz6R9lF2PuY54&oauth_verifier=a99zefKb4XXP5UIyaBT8hTlITjumjEnv6vdk6lCyOfc HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:06:12] "GET /accounts/ HTTP/1.1" 500 83375
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:04] "GET /accounts/ HTTP/1.1" 200 456
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:06] "GET /accounts/ HTTP/1.1" 200 456
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:10] "GET /accounts/pman HTTP/1.1" 301 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:11] "GET /accounts/pman/ HTTP/1.1" 500 85468
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:24] "GET /admin HTTP/1.1" 301 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:25] "GET /admin/ HTTP/1.1" 200 14670
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:27] "GET /admin/social_auth/association/ HTTP/1.1" 200 10788
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:27] "GET /admin/jsi18n/ HTTP/1.1" 200 10492
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:31] "GET /admin/auth/user/ HTTP/1.1" 200 14890
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:35] "GET /admin/ HTTP/1.1" 200 14670
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:39] "GET /admin/social_auth/usersocialauth/ HTTP/1.1" 200 13169
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:48] "POST /admin/social_auth/usersocialauth/ HTTP/1.1" 200 6788
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:51] "POST /admin/social_auth/usersocialauth/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:51] "GET /admin/social_auth/usersocialauth/ HTTP/1.1" 200 11033
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:54] "GET / HTTP/1.1" 200 7054
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:14:57] "GET /login/twitter/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:15:00] "GET /complete/twitter/?oauth_token=RJQCEo1tEAXXgq45K8PPczCMT2Rs0nKlTpliwRDGA&oauth_verifier=xSt3OZlZZlOiw3AguUcOrtJlZK944yw5eOOKYBko0 HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:15:10] "GET /accounts/pman/ HTTP/1.1" 500 85475
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:15:41] "GET / HTTP/1.1" 200 7054
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:15:47] "GET /admin/ HTTP/1.1" 200 15078
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:15:48] "GET /admin/social_auth/usersocialauth/ HTTP/1.1" 200 13169
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:15:49] "GET /admin/jsi18n/ HTTP/1.1" 200 10492
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:15:54] "GET /admin/ HTTP/1.1" 200 15078
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:15:57] "GET /admin/auth/user/ HTTP/1.1" 200 14890
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:8156].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/conf/__init__.py:110: DeprecationWarning: The SECRET_KEY setting must not be empty.
+  warnings.warn("The SECRET_KEY setting must not be empty.", DeprecationWarning)
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:9817].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/conf/__init__.py:110: DeprecationWarning: The SECRET_KEY setting must not be empty.
+  warnings.warn("The SECRET_KEY setting must not be empty.", DeprecationWarning)
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+[24/Dec/2012 01:20:12] "GET / HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+[24/Dec/2012 01:20:14] "GET / HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+[24/Dec/2012 01:20:29] "GET / HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+[24/Dec/2012 01:20:31] "GET / HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+[24/Dec/2012 01:20:31] "GET / HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+[24/Dec/2012 01:20:31] "GET / HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+[24/Dec/2012 01:20:32] "GET / HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+[24/Dec/2012 01:20:32] "GET / HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 93, in run
+    self.result = application(self.environ, self.start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/handlers/base.py", line 82, in get_response
+    urlconf = settings.ROOT_URLCONF
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/utils/functional.py", line 185, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/conf/__init__.py:110: DeprecationWarning: The SECRET_KEY setting must not be empty.
+  warnings.warn("The SECRET_KEY setting must not be empty.", DeprecationWarning)
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:9867].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 11:20:56] "GET / HTTP/1.1" 200 7056
+[24/Dec/2012 11:20:57] "GET /static/demo/css/bootstrap.css HTTP/1.1" 304 0
+[24/Dec/2012 11:20:57] "GET /static/demo/css/bootstrap-responsive.css HTTP/1.1" 304 0
+[24/Dec/2012 11:20:57] "GET /static/demo/js/bootstrap.js HTTP/1.1" 304 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:9872].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 11:21:06] "GET / HTTP/1.1" 200 7056
+[24/Dec/2012 11:21:06] "GET /static/demo/css/bootstrap.css HTTP/1.1" 304 0
+[24/Dec/2012 11:21:06] "GET /static/demo/css/bootstrap-responsive.css HTTP/1.1" 304 0
+[24/Dec/2012 11:21:06] "GET /static/demo/js/bootstrap.js HTTP/1.1" 304 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:21:12] "GET / HTTP/1.1" 200 7150
+[24/Dec/2012 11:21:13] "GET /static/demo/css/bootstrap.css HTTP/1.1" 304 0
+[24/Dec/2012 11:21:13] "GET /static/demo/css/bootstrap-responsive.css HTTP/1.1" 304 0
+[24/Dec/2012 11:21:13] "GET /static/demo/js/bootstrap.js HTTP/1.1" 304 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:9882].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 11:21:29] "GET / HTTP/1.1" 200 7150
+[24/Dec/2012 11:21:29] "GET /static/demo/css/bootstrap.css HTTP/1.1" 304 0
+[24/Dec/2012 11:21:29] "GET /static/demo/css/bootstrap-responsive.css HTTP/1.1" 304 0
+[24/Dec/2012 11:21:29] "GET /static/demo/js/bootstrap.js HTTP/1.1" 304 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:21:32] "GET /login/facebook/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:22:11] "GET /login/facebook/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:22:29] "GET /login/facebook/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/social_auth/exceptions.py:41: DeprecationWarning: BaseException.message has been deprecated as of Python 2.6
+  if self.message == 'access_denied':
+[24/Dec/2012 11:22:36] "GET /complete/facebook/?redirect_state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&code=AQCh749Izhh0Fu95aroHYv-d_lkZfr7daWNUAxSQaRKnTMcUVRpB-dZixJymOgXRAdC5yNT3hleQK4ivnLZl-sLCC189CumNEmH_RBBmxOY2b3xQERZ4bZ3FgqRRBhUtesPICcfdxRdoo761RDLtsOVQ1Zxdh3qX-066ls-pXiWS1SPbJ2L_0nqRUKkL2GKYvHjXrkNttx4psLQIwueQGMOx HTTP/1.1" 500 159777
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:9899].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+No handlers could be found for logger "SocialAuth"
+[24/Dec/2012 11:24:01] "GET /complete/facebook/?redirect_state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&code=AQCh749Izhh0Fu95aroHYv-d_lkZfr7daWNUAxSQaRKnTMcUVRpB-dZixJymOgXRAdC5yNT3hleQK4ivnLZl-sLCC189CumNEmH_RBBmxOY2b3xQERZ4bZ3FgqRRBhUtesPICcfdxRdoo761RDLtsOVQ1Zxdh3qX-066ls-pXiWS1SPbJ2L_0nqRUKkL2GKYvHjXrkNttx4psLQIwueQGMOx HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:24:01] "GET /accounts/ HTTP/1.1" 200 456
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:9945].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:24:19] "GET /accounts/ HTTP/1.1" 404 4056
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:9961].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+No handlers could be found for logger "SocialAuth"
+[24/Dec/2012 11:24:37] "GET /complete/facebook/?redirect_state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&code=AQAT7oJqJxWMl2DiVjCgeurHESDwvB08jhw2dddLZWa4uPr70aCzigSKK7ON183xPpKxT0lcM46UbPo93JIA7Pb3G5RYTldLwRhgu9cvzK-rBMwGb_ToIzN5SyehAU70dIkletnYzknN5CnQRf07rHGLaVCd3ZMToMCHEHdaR8YagkXS7PNwva2EAuARbMLr9vD8OZX8nhayeFUtNMG0R36d HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 11:24:47] "GET / HTTP/1.1" 200 7150
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:24:49] "GET /login/facebook/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:24:50] "GET /complete/facebook/?redirect_state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&code=AQAYVBlRuMT6nFsqCtxMbk7un2okvV427JMfNkUbsIRzOngZQqPS7f3Q3uRO4XPh89wxAPqvy3aKdKk8YH1zBNyBphXtv0zDwdDjUcPOil_7Nf8MQxJLGNxUCe_CNt7Zvy1JOlSiP28B1DubZF8fSVQPCfXP4lkoG3u_azaN65KP5FdFE4WMY4yQ7w7fBKtcn-pznUcs5B_EQJYUge890lAV HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:24:50] "GET /accounts/ HTTP/1.1" 404 4056
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:9969].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/conf/__init__.py:110: DeprecationWarning: The SECRET_KEY setting must not be empty.
+  warnings.warn("The SECRET_KEY setting must not be empty.", DeprecationWarning)
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 11:25:08] "GET /admin/ HTTP/1.1" 200 15082
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:25:10] "GET /admin/auth/user/ HTTP/1.1" 200 14905
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:25:11] "GET /admin/jsi18n/ HTTP/1.1" 200 10492
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:25:12] "GET /admin/ HTTP/1.1" 200 15082
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:25:13] "GET /admin/social_auth/usersocialauth/ HTTP/1.1" 200 13531
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:25:19] "POST /admin/social_auth/usersocialauth/ HTTP/1.1" 200 6991
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:25:22] "POST /admin/social_auth/usersocialauth/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:25:22] "GET /admin/social_auth/usersocialauth/ HTTP/1.1" 200 11038
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:9998].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 11:25:49] "GET / HTTP/1.1" 200 7150
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:25:51] "GET /login/facebook/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+No handlers could be found for logger "SocialAuth"
+[24/Dec/2012 11:25:51] "GET /complete/facebook/?redirect_state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&code=AQBBi7CpXo4nGYImZHluy5aj1rtxtRNyh4V7aO_PRSrQnJ3g_q_xlGUguw91_nUIQSQi47nD4xcqavAsQ89YKOd7uXbqXtfmzszxFUlPUfcPyxyLZp4T2K0KfY5W5DF3xbGeDqtO9IKiZhzVBVP_JJ2g4lqHWTOchNcSnqg_Lgzj1ixG8WrP-_Db73Ispoh9vd1JC8qTBkHI19vvKYo4qd0K HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:25:52] "GET /accounts/ HTTP/1.1" 404 4056
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:10022].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:26:18] "GET /accounts/ HTTP/1.1" 500 159959
+modeltranslation: Registered 0 models for translation () [pid:10042].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 11:26:30] "GET /accounts/ HTTP/1.1" 200 456
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:10051].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:12028].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:12034].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:12038].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 12:31:55] "GET / HTTP/1.1" 200 7150
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 12:31:57] "GET /login/facebook/ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+No handlers could be found for logger "SocialAuth"
+[24/Dec/2012 12:31:59] "GET /complete/facebook/?redirect_state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&state=xf3HhrHgYn7guObT3YS34bZiP5ANQ8SN&code=AQCNexukusiLD9KG_p3e5X2QNyuTImNo-OD4z7dIj-ix8mu0qpbdUqn8mNSUr6JFDBreLSOeMNVi90HF-en7R_wrAAuQp6NXrPd6RiYMxsENt4v375YNLog2czqKl0pxk4gcgJqqzhioKDqpvExeXnass6F_gwkAlZR4kCezyQX85eYe2qog7SgML9Z4y2mCu6NwIyLsuJYlPU0m1iREha5_ HTTP/1.1" 302 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 12:32:27] "GET / HTTP/1.1" 500 180256
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[24/Dec/2012 12:33:35] "GET / HTTP/1.1" 200 7038
+[24/Dec/2012 12:33:35] "GET /static/demo/css/bootstrap.css HTTP/1.1" 304 0
+[24/Dec/2012 12:33:35] "GET /static/demo/css/bootstrap-responsive.css HTTP/1.1" 304 0
+[24/Dec/2012 12:33:35] "GET /static/demo/js/bootstrap.js HTTP/1.1" 304 0
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+modeltranslation: Registered 0 models for translation () [pid:12048].
+Validating models...
+
+0 errors found
+Django version 1.4.2, using settings 'django_test.settings'
+Development server is running at http://demo.allvbg.ru:3002/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <bound method Command.inner_run of <django.contrib.staticfiles.management.commands.runserver.Command object at 0x2aef7874df10>>
+Traceback (most recent call last):
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/management/commands/runserver.py", line 111, in inner_run
+    ipv6=self.use_ipv6, threading=threading)
+  File "/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 253, in run
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+/root/.virtualenvs/dj-test/lib/python2.6/site-packages/django/template/defaulttags.py:1235: DeprecationWarning: The syntax for the url template tag is changing. Load the `url` tag from the `future` tag library to start using the new behavior.
+  category=DeprecationWarning)
+[24/Dec/2012 14:52:28] "GET / HTTP/1.1" 200 7038
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted
+[26/Dec/2012 16:01:57] "GET / HTTP/1.1" 200 7038
+[26/Dec/2012 16:01:58] "GET /static/demo/css/bootstrap-responsive.css HTTP/1.1" 200 21751
+[26/Dec/2012 16:01:58] "GET /static/demo/js/bootstrap.js HTTP/1.1" 200 58516
+[26/Dec/2012 16:01:58] "GET /static/demo/css/bootstrap.css HTTP/1.1" 200 124223
+error: Found option without preceding group in config file: /var/www/pman/data/www/django_test/my.cnf at line: 1
+Fatal error in defaults handling. Program aborted

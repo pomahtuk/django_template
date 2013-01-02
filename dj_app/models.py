@@ -3,10 +3,13 @@
 #coding: utf-8
 
 from django.db import models
+from django.contrib.auth.models import User
+from django.utils.translation import ugettext as _
 #from mptt.models import MPTTModel, TreeForeignKey
 from tinymce import models as tinymce_models
 from django.forms.widgets import *
 from filebrowser.fields import FileBrowseField
+
 
 # Create your models here.
 class Page(models.Model):
